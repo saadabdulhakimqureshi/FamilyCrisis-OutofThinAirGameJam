@@ -30,7 +30,7 @@ All the players start with 10 FP (Family coins).
 If player loses all of their money they get disqualified.
 
 ## Snippets
-![Alt text](/Images/Grid.jpeg)
-![Alt text](/Images/Money.jpeg)
-![Alt text](/Images/Wheel.jpeg)
-![Alt text](/Images/Coins.jpeg)
+![Alt text](Grid.jpeg)
+![Alt text](Money.jpeg)
+![Alt text](Wheel.jpeg)
+![Alt text](Coins.jpeg)
